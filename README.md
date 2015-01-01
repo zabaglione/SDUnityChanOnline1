@@ -2,9 +2,13 @@ SD Unity-Chan Online Example1
 ----------------------------------------------
 
 
-[SDユニティちゃん オンラインが出来るまで -Unity編-](http://zabaglione.info/?p=571) のソースコードです。
+[SDユニティちゃん オンラインが出来るまで -Unity編-](http://zabaglione.info/?p=592) のソースコードです。
 
+■使用バージョン
 
+Unity: 4.6.1f1
+Unity Chan: 1.2
+SD Unity Chan: 1.0
 
 
 Unity-Chan ライセンス
